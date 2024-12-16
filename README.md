@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when accessing array elements. The bug is in the for loop, and the solution corrects it. The provided code examples clearly illustrate the error and its resolution, which is beneficial for understanding how to prevent this type of error.
